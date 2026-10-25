@@ -18,6 +18,7 @@ Content creation spans video, audio, and written formats across many platforms. 
 
 - [Google Analytics](https://analytics.google.com) - Free web analytics platform, commonly used by creators with their own blogs or websites.
 - [Later Analytics](https://later.com) - Social media analytics and scheduling with performance tracking across Instagram, TikTok, and Pinterest.
+- [SnapDataHub](https://snapdatahub.com) - Snapchat analytics tool for public profile, Spotlight and engagement metrics.
 - [Social Blade](https://socialblade.com) - Tracks public statistics and growth trends for YouTube, Twitch, Instagram, and other platforms.
 - [Streamlabs Analytics](https://streamlabs.com) - Analytics and dashboard tools for live streamers on Twitch and YouTube.
 - [TubeBuddy](https://www.tubebuddy.com) - Browser extension offering YouTube channel management, keyword research, A/B testing, and performance analytics.
